@@ -1,0 +1,6 @@
+{
+  "name": "Audio Transcriber",
+  "description": "Exact audio transcription with timestamps from file uploads, web links, or live microphone recordings.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
